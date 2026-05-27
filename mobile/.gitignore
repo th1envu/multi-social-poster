@@ -10,6 +10,9 @@
 .history
 .svn/
 .swiftpm/
+.android/
+.ios/
+.env
 migrate_working_dir/
 
 # IntelliJ related
